@@ -1,0 +1,49 @@
+<svg color-interpolation-filters="sRGB" height="18" preserveaspectratio="none" viewbox="88.992 76.992 46.016 36" width="23.008" x="0" y="859.36">
+<defs>
+<clippath id="mfid7">
+<rect height="36" id="mfid8" width="46.016" x="88.992" y="76.992"></rect>
+</clippath>
+</defs>
+<g clip-path="url(#mfid7)">
+<defs>
+<g id="mfid9">
+<path d="M327,315 C321,320 321,329 327,334 C332,339 340,339 346,334 C351,329 351,320 346,315 C340,310 332,310 327,315 Z" transform="matrix(0.33333, 0, 0, 0.33333, 0, 0)"></path>
+</g>
+</defs>
+<g transform="matrix(0.33333, 0, 0, 0.33333, 0, 0)">
+<g fill="#231f20" stroke="none" stroke-width="4.5">
+<use stroke="none" transform="matrix(3, -0, -0, 3, -0, 0)" xlink:href="#mfid9"></use>
+</g>
+</g>
+<defs>
+<g id="mfid10">
+<path d="M360,307 C358,307 356,307 355,305 C345,295 328,295 317,305 C314,308 310,308 308,305 C305,303 305,299 308,296 C323,280 349,280 365,296 C367,299 367,303 365,305 C363,307 362,307 360,307 Z" transform="matrix(0.33333, 0, 0, 0.33333, 0, 0)"></path>
+</g>
+</defs>
+<g transform="matrix(0.33333, 0, 0, 0.33333, 0, 0)">
+<g fill="#231f20" stroke="none" stroke-width="4.5">
+<use stroke="none" transform="matrix(3, -0, -0, 3, -0, 0)" xlink:href="#mfid10"></use>
+</g>
+</g>
+<defs>
+<g id="mfid11">
+<path d="M293,288 C292,288 290,288 289,286 C286,284 286,280 289,277 C301,264 318,257 336,257 C336,257 336,257 336,257 C354,257 371,264 384,277 C386,280 386,284 384,286 C381,289 377,289 374,286 C364,276 350,271 336,271 C322,271 308,276 298,286 C297,288 295,288 293,288 Z" transform="matrix(0.33333, 0, 0, 0.33333, 0, 0)"></path>
+</g>
+</defs>
+<g transform="matrix(0.33333, 0, 0, 0.33333, 0, 0)">
+<g fill="#231f20" stroke="none" stroke-width="4.5">
+<use stroke="none" transform="matrix(3, -0, -0, 3, -0, 0)" xlink:href="#mfid11"></use>
+</g>
+</g>
+<defs>
+<g id="mfid12">
+<path d="M398,269 C396,269 394,269 393,267 C378,252 358,244 336,244 C315,244 294,252 279,267 C276,270 272,270 270,267 C267,265 267,261 270,258 C287,240 311,230 336,230 C336,230 336,230 336,230 C361,230 385,240 403,258 C405,261 405,265 403,267 C401,269 400,269 398,269 Z" transform="matrix(0.33333, 0, 0, 0.33333, 0, 0)"></path>
+</g>
+</defs>
+<g transform="matrix(0.33333, 0, 0, 0.33333, 0, 0)">
+<g fill="#231f20" stroke="none" stroke-width="4.5">
+<use stroke="none" transform="matrix(3, -0, -0, 3, -0, 0)" xlink:href="#mfid12"></use>
+</g>
+</g>
+</g>
+</svg>
